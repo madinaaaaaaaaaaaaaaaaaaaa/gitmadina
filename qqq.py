@@ -64,3 +64,5 @@ class TemperatureMonitor:
 root = tk.Tk()
 app = TemperatureMonitor(root)
 root.mainloop()
+
+print('Bul Balkiya')
